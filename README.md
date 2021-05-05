@@ -12,4 +12,6 @@ This is to provide basic information for a Git demo.
 
 ## Deployment
 
+This is a simple web project. Deployment can be on any web server. 
+
 ## How to Contribuate
