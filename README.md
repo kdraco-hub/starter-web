@@ -15,3 +15,8 @@ This is to provide basic information for a Git demo.
 This is a simple web project. Deployment can be on any web server. 
 
 ## How to Contribuate
+
+## Copyright
+
+2021 KarenB
+
