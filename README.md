@@ -16,6 +16,8 @@ This is a simple web project. Deployment can be on any web server.
 
 ## How to Contribuate
 
+Please fork this repository and then issue pull requests for review.
+
 ## Copyright
 
 2021 KarenB
