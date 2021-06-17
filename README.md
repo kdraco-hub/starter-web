@@ -20,5 +20,5 @@ Please fork this repository and then issue pull requests for review.
 
 ## Copyright
 
-2021 KarenB
+2021 KarenB.  All rights reserved
 
